@@ -1,0 +1,407 @@
+{
+    "l_niudan": {
+        "id": "l_niudan",
+        "name": "犇牛彩蛋",
+        "type": "lucky",
+        "coin_amount": 188,
+        "color": "#ff3685",
+        "description": "送出 犇牛彩蛋",
+        "contents": "牛气冲天x5、梦幻城堡x5、鞭炮、泰迪熊x21、发财、5000玩券",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 188
+            },
+            {
+                "times": 10,
+                "coin_amount": 1818
+            }
+        ]
+    },
+    "l_zhaoaimao2": {
+        "id": "l_zhaoaimao2",
+        "name": "招爱猫",
+        "type": "lucky",
+        "coin_amount": 328,
+        "color": "#ff3685",
+        "description": "送出 招爱猫",
+        "contents": "牛气冲天、彩虹独角兽、香槟x3、环游世界、神之王冠、财神",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 328
+            },
+            {
+                "times": 10,
+                "coin_amount": 2928
+            }
+        ]
+    },
+    "l_zhaocaimao2": {
+        "id": "l_zhaocaimao2",
+        "name": "招财猫",
+        "type": "lucky",
+        "coin_amount": 128,
+        "color": "#ff3685",
+        "description": "送出 招财猫",
+        "contents": "鹊桥、梦幻城堡、告白气球、21x10、草莓甜筒、发财x8",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 128
+            },
+            {
+                "times": 10,
+                "coin_amount": 1148
+            }
+        ]
+    },
+    "l_zhaofumao2": {
+        "id": "l_zhaofumao2",
+        "name": "招福猫",
+        "type": "lucky",
+        "coin_amount": 28,
+        "color": "#ff3685",
+        "description": "送出 招福猫",
+        "contents": "怦然心动、鞭炮、第一杯奶茶x2、抹茶拿铁x10、泰迪熊x5、发财",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 28
+            },
+            {
+                "times": 10,
+                "coin_amount": 248
+            }
+        ]
+    },
+    "l_moon_bao": {
+        "id": "l_moon_bao",
+        "name": "月光宝盒",
+        "type": "lucky",
+        "coin_amount": 36,
+        "currency": "coin",
+        "color": "#ff3685",
+        "description": "送出 月光宝盒",
+        "contents": "牛气冲天、爱落月球、梦幻城堡、财神、Pick me、1000玩券",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 36
+            },
+            {
+                "times": 10,
+                "coin_amount": 356
+            }
+        ]
+    },
+    "l_xiangnai": {
+        "id": "l_xiangnai",
+        "name": "香奈礼盒",
+        "type": "lucky",
+        "currency": "bind_coin",
+        "coin_amount": 1266,
+        "color": "#ff3685",
+        "description": "送出 香奈礼盒",
+        "contents": "装扮、玩券、魅力礼物、心意礼物",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 1266
+            },
+            {
+                "times": 10,
+                "coin_amount": 12660
+            }
+        ]
+    },
+    "l_youyi": {
+        "id": "l_youyi",
+        "name": "优衣礼盒",
+        "type": "lucky",
+        "currency": "bind_coin",
+        "coin_amount": 28,
+        "color": "#ff3685",
+        "description": "送出 优衣礼盒",
+        "contents": "玩券、魅力礼物、心意礼物",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 28
+            },
+            {
+                "times": 10,
+                "coin_amount": 280
+            }
+        ]
+    },
+    "l_lovers": {
+        "id": "l_lovers",
+        "name": "爱之屋",
+        "type": "lucky",
+        "coin_amount": 999,
+        "color": "#ff3685",
+        "description": "送出 爱之屋",
+        "contents": "爱之马车、牛气冲天、2021、一生一世、浪漫流星雨、怦然心动",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 999
+            },
+            {
+                "times": 10,
+                "coin_amount": 9999
+            }
+        ]
+    },
+    "l_luxury_egg2": {
+        "id": "l_luxury_egg2",
+        "name": "豪华彩蛋",
+        "type": "lucky",
+        "coin_amount": 599,
+        "color": "#ff3685",
+        "description": "送出 豪华彩蛋",
+        "contents": "2021x21、梦幻城堡x50、棒棒糖x250、穿云箭、泰迪熊x50、发财",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 599
+            },
+            {
+                "times": 10,
+                "coin_amount": 5299
+            }
+        ]
+    },
+    "l_fantasy_egg2": {
+        "id": "l_fantasy_egg2",
+        "name": "奇幻彩蛋",
+        "type": "lucky",
+        "coin_amount": 199,
+        "color": "#ff3685",
+        "description": "送出 奇幻彩蛋",
+        "contents": "穿云箭x15、梦幻城堡x15、21x30、荧光棒x150、泰迪熊x15、发财",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 199
+            },
+            {
+                "times": 10,
+                "coin_amount": 1789
+            }
+        ]
+    },
+    "l_happy_egg2": {
+        "id": "l_happy_egg2",
+        "name": "欢乐彩蛋",
+        "type": "lucky",
+        "coin_amount": 19,
+        "color": "#ff3685",
+        "description": "送出 欢乐彩蛋",
+        "contents": "穿云箭、梦幻城堡、财神、发财、泰迪熊、幸运草",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 19
+            },
+            {
+                "times": 10,
+                "coin_amount": 169
+            }
+        ]
+    },
+    "l_moon_mo": {
+        "id": "l_moon_mo",
+        "name": "月光魔盒",
+        "type": "lucky",
+        "coin_amount": 266,
+        "color": "#ff3685",
+        "description": "送出 月光魔盒",
+        "contents": "威廉古堡x5、爱落月球、告白气球、发财x5、52000券、15200玩券",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 266
+            },
+            {
+                "times": 10,
+                "coin_amount": 2566
+            }
+        ]
+    },
+    "l_violet_bag": {
+        "id": "l_violet_bag",
+        "name": "紫金福袋",
+        "type": "lucky",
+        "coin_amount": 666,
+        "color": "#ff3685",
+        "description": "送出 紫金福袋",
+        "contents": "牛气冲天x5、彩虹独角兽x3、梦幻城堡x3、穿云箭、浪漫流星雨、梦幻蝴蝶",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 666
+            },
+            {
+                "times": 10,
+                "coin_amount": 5966
+            }
+        ]
+    },
+    "l_gold_bag": {
+        "id": "l_gold_bag",
+        "name": "黄金福袋",
+        "type": "lucky",
+        "coin_amount": 66,
+        "color": "#ff3685",
+        "description": "送出 黄金福袋",
+        "contents": "糖果屋、第一杯奶茶x5、甜蜜暴击、财神、喷钱枪、桃花运",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 66
+            },
+            {
+                "times": 10,
+                "coin_amount": 596
+            }
+        ]
+    },
+    "l_ypgouliang2": {
+        "id": "l_ypgouliang2",
+        "name": "一盆狗粮",
+        "type": "lucky",
+        "coin_amount": 11,
+        "color": "#ff3685",
+        "description": "送出 一盆狗粮",
+        "contents": "好多狗粮",
+        "for_vip": false,
+        "is_special": false,
+        "activity_period": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 11
+            },
+            {
+                "times": 10,
+                "coin_amount": 101
+            }
+        ]
+    },
+    "l_dandans": {
+        "id": "l_dandans",
+        "name": "蛋之筐",
+        "type": "lucky",
+        "coin_amount": 6,
+        "color": "#ff3685",
+        "description": "送出 蛋之筐",
+        "contents": "一筐臭鸡蛋",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 6
+            },
+            {
+                "times": 10,
+                "coin_amount": 56
+            }
+        ]
+    },
+    "l_wangcaigou": {
+        "id": "l_wangcaigou",
+        "name": "旺财狗",
+        "type": "lucky",
+        "coin_amount": 111,
+        "color": "#ff3685",
+        "description": "送出 旺财狗",
+        "contents": "狗粮劫x5、狗粮劫、彩虹独角兽x2、桃花运x7、草莓甜筒、狗粮、5555券、2222玩券",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 111
+            },
+            {
+                "times": 10,
+                "coin_amount": 999
+            }
+        ]
+    },
+    "l_wangfugou": {
+        "id": "l_wangfugou",
+        "name": "旺福狗",
+        "type": "lucky",
+        "coin_amount": 22,
+        "color": "#ff3685",
+        "description": "送出 旺福狗",
+        "contents": "狗粮劫、彩虹独角兽、好心情x10、桃花运、泰迪熊、狗粮、1111券、520玩券",
+        "for_vip": false,
+        "is_special": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 22
+            },
+            {
+                "times": 10,
+                "coin_amount": 202
+            }
+        ]
+    },
+    "l_ypgouliang": {
+        "id": "l_ypgouliang",
+        "name": "一盆狗粮",
+        "type": "lucky",
+        "coin_amount": 11,
+        "color": "#ff3685",
+        "description": "送出 一盆狗粮",
+        "contents": "好多狗粮",
+        "for_vip": false,
+        "is_special": false,
+        "is_hidden": true,
+        "activity_period": false,
+        "multi_send": [
+            {
+                "times": 1,
+                "coin_amount": 11
+            },
+            {
+                "times": 10,
+                "coin_amount": 101
+            }
+        ]
+    }
+}

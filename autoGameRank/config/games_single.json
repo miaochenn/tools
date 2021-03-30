@@ -1,0 +1,1315 @@
+{
+    "StepByStepSingle": {
+        "update_timestamp": 1545920487,
+        "name": "一步两步",
+        "position_homepage": 6,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            50,
+            45,
+            40
+        ],
+        "single_score_challenge_range": [
+            120,
+            60
+        ]
+    },
+    "SuperMarioJumpSingle": {
+    	"update_timestamp": 1545920487,
+        "name": "萌鼠登山",
+        "position_homepage": 7,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 6800,
+        "fake_playing_count_low_base": 2500,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            35,
+            25,
+            20
+        ],
+        "single_score_challenge_range": [
+            120,
+            60
+        ]
+    },
+    "DoubleRunSingle": {
+        "update_timestamp": 1545920487,
+        "name": "疯狂竞速",
+        "position_homepage": 11,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 8200,
+        "fake_playing_count_low_base": 3600,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            25,
+            23,
+            19
+        ],
+        "single_score_challenge_range": [
+            90,
+            40
+        ]
+    },
+    "SquareEliminationSingle": {
+        "update_timestamp": 1552633878,
+        "release_date": "2019-03-14",
+        "name": "俄罗斯消除",
+        "position_homepage": 8,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            100,
+            400,
+            800
+        ]
+    },
+    "MagicBrickSingle": {
+        "update_timestamp": 1549011677,
+        "name": "暴走消砖块",
+        "position_homepage": 5,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            60,
+            90,
+            120
+        ],
+        "single_score_challenge_range": [
+            20,
+            60
+        ]
+    },
+    "JumpBoxSingle": {
+        "update_timestamp": 1549011676,
+        "name": "跳跳球",
+        "position_homepage": 25,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1549011674,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            30,
+            60,
+            100
+        ],
+        "single_score_challenge_range": [
+            5,
+            25
+        ]
+    },
+    "SolitaireSingle": {
+        "update_timestamp": 1549011677,
+        "release_date": "2018-08-01",
+        "name": "纸牌接龙",
+        "position_homepage": 10,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "秒",
+        "single_score_type": "int",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            480,
+            360,
+            180
+        ]
+    },
+    "MonsterEliminateSingle": {
+        "update_timestamp": 1552633877,
+        "release_date": "2019-03-22",
+        "name": "萌怪爱消除",
+        "position_homepage": 4,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            200,
+            500,
+            1000
+        ]
+    },
+    "MemoryCardSingle": {
+        "update_timestamp": 1545920487,
+        "name": "翻翻乐",
+        "position_homepage": 43,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            50,
+            45,
+            40
+        ],
+        "single_score_challenge_range": [
+            120,
+            60
+        ]
+    },
+    "LinkupSingle": {
+        "update_timestamp": 1549011676,
+        "name": "连连看",
+        "position_homepage": 14,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            27,
+            24,
+            21
+        ],
+        "single_score_challenge_range": [
+            120,
+            50
+        ]
+    },
+    "NewTetrisSingle": {
+        "update_timestamp": 1562570059,
+        "name": "俄罗斯方块",
+        "position_homepage": 1,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1562570057,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            200,
+            400,
+            600
+        ]
+    },
+    "RoadRacingSingle": {
+        "update_timestamp": 1549011677,
+        "name": "极速飙车",
+        "position_homepage": 26,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 8200,
+        "fake_playing_count_low_base": 3600,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            90,
+            80,
+            70
+        ],
+        "single_score_challenge_range": [
+            160,
+            90
+        ]
+    },
+    "NewStormBlockSingle": {
+        "update_timestamp": 1557139979,
+        "release_date": "2020-04-08",
+        "name": "消灭小怪物",
+        "position_homepage": 53,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            5000,
+            10000,
+            15000
+        ]
+    },
+    "2048Single": {
+        "update_timestamp": 1562570060,
+        "release_date": "2018-04-16",
+        "name": "2048",
+        "position_homepage": 2,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1562570057,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            1600,
+            3800,
+            8000
+        ]
+    },
+    "MazeSingle": {
+    	"update_timestamp": 1562570060,
+        "name": "灵魂迷宫",
+        "position_homepage": 28,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 8200,
+        "fake_playing_count_low_base": 3600,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            80,
+            50,
+            25
+        ],
+        "single_score_challenge_range": [
+            300,
+            200
+        ]
+    },
+    "JumpOClockSingle": {
+        "update_timestamp": 1549011676,
+        "name": "跳不停",
+        "position_homepage": 32,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            20,
+            40
+        ],
+        "single_score_challenge_range": [
+            3,
+            10
+        ]
+    },
+    "MagicGesturesSingle": {
+    	"update_timestamp": 1562570060,
+        "name": "魔法手势",
+        "position_homepage": 36,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            30,
+            50
+        ],
+        "single_score_challenge_range": [
+            5,
+            30
+        ]
+    },
+    "MatchGameSingle": {
+        "update_timestamp": 1552633877,
+        "release_date": "2019-03-16",
+        "name": "水果消消乐",
+        "position_homepage": 3,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            50000,
+            60000,
+            70000
+        ]
+    },
+    "StupidBirdFlySingle": {
+        "update_timestamp": 1549011676,
+        "name": "蠢鸟飞飞",
+        "position_homepage": 15,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1549011674,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            30,
+            60,
+            100
+        ],
+        "single_score_challenge_range": [
+            10,
+            50
+        ]
+    },
+    "SnakeBlockSingle": {
+        "update_timestamp": 1549011677,
+        "release_date": "2018-09-15",
+        "name": "方块贪吃蛇",
+        "position_homepage": 23,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            100,
+            250,
+            400
+        ]
+    },
+    "GuessWordSingle": {
+        "update_timestamp": 1549011677,
+        "release_date": "2018-11-21",
+        "name": "猜字",
+        "position_homepage": 40,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1549011674,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            5,
+            10,
+            30
+        ]
+    },
+    "NewPacManSingle": {
+        "id":"NewPacManSingle",
+        "update_timestamp": 1557139980,
+        "release_date": "2020-01-07",
+        "name": "吃豆人",
+        "position_homepage": 52,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            500,
+            1000,
+            1500
+        ]
+    },
+    "PlaneWarSingle": {
+        "update_timestamp": 1524796810,
+        "name": "极限躲避",
+        "position_homepage": 18,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 6800,
+        "fake_playing_count_low_base": 2500,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            15,
+            25,
+            35
+        ],
+        "single_score_challenge_range": [
+            5,
+            10
+        ]
+    },
+    "GodHandsSingle": {
+        "update_timestamp": 1549011677,
+        "release_date": "2018-06-15",
+        "name": "带球过人",
+        "position_homepage": 21,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            20,
+            30
+        ]
+    },
+    "MineSweepingSingle": {
+        "update_timestamp": 1549011677,
+        "name": "小心！地雷",
+        "position_homepage": 9,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            30,
+            50
+        ],
+        "single_score_challenge_range": [
+            5,
+            15
+        ]
+    },
+    "JumpJumpSingle": {
+    	"update_timestamp": 1549011677,
+        "name": "怪怪跳",
+        "position_homepage": 37,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 8200,
+        "fake_playing_count_low_base": 3600,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            60,
+            55,
+            50
+        ],
+        "single_score_challenge_range": [
+            90,
+            60
+        ],
+        "platform":"android"
+    },
+    "FlappyBirdSingle": {
+        "update_timestamp": 1549011676,
+        "name": "FlappyBird Pro",
+        "position_homepage": 31,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 8200,
+        "fake_playing_count_low_base": 3600,
+        "single_score_unit": "关",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            30,
+            70,
+            100
+        ],
+        "single_score_challenge_range": [
+            5,
+            15
+        ]
+    },
+    "JumpBasketballSingle": {
+        "update_timestamp": 1549011677,
+        "release_date": "2018-09-15",
+        "name": "无限投篮",
+        "position_homepage": 13,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            100,
+            225,
+            500
+        ]
+    },
+    "VirusSingle": {
+        "update_timestamp": 1557139979,
+        "release_date": "2019-06-17",
+        "name": "消灭细菌",
+        "position_homepage": 19,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "关",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            5,
+            20,
+            50
+        ]
+    },
+    "BalanceBeamSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "极限平衡",
+        "position_homepage": 22,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            12,
+            30,
+            60
+        ],
+        "single_score_challenge_range": [
+            5,
+            20
+        ],
+        "platform":"android"
+    },
+    "YaoYaoQieKeNaoSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "摇摇切克闹",
+        "position_homepage": 44,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 6800,
+        "fake_playing_count_low_base": 2500,
+        "single_score_unit": "次",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            30,
+            50,
+            100
+        ],
+        "single_score_challenge_range": [
+            40,
+            100
+        ],
+        "platform":"android"
+    },
+    "ZhaoNiMeiSingle": {
+        "update_timestamp": 1549011675,
+        "name": "找你妹",
+        "position_homepage": 45,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "collaboration_score_unit": "秒",
+        "collaboration_score_type": "float",
+        "collaboration_score_order": "ASC",
+        "collaboration_score_level_line": [
+            80,
+            70,
+            60,
+            50,
+            40
+        ],
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            60,
+            55,
+            50
+        ],
+        "single_score_challenge_range": [
+            180,
+            80
+        ]
+    },
+    "YouCanYouJumpSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "你行你跳",
+        "position_homepage": 24,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "层",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            30,
+            50
+        ],
+        "single_score_challenge_range": [
+            5,
+            15
+        ]
+    },
+    "GravitationalBallSingle": {
+        "update_timestamp": 1545920487,
+        "release_date": "2018-08-10",
+        "name": "坠落球",
+        "position_homepage": 16,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            100,
+            500,
+            1000
+        ]
+    },
+    "PlumberMarioSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "水管兄弟",
+        "position_homepage": 50,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            120,
+            90,
+            70
+        ],
+        "single_score_challenge_range": [
+            500,
+            300
+        ]
+    },
+    "ThroughTheJungleSingle": {
+        "update_timestamp": 1552633877,
+        "release_date": "2019-04-25",
+        "name": "穿越丛林",
+        "position_homepage": 12,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            100,
+            200,
+            500
+        ]
+    },
+    "BaFenYinFuJiangSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "八分音符酱",
+        "position_homepage": 49,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "voice",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "米",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            100,
+            200,
+            350
+        ],
+        "single_score_challenge_range": [
+            40,
+            120
+        ]
+    },
+    "TankWarSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "坦克大战",
+        "position_homepage": 34,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            55,
+            50,
+            45
+        ],
+        "single_score_challenge_range": [
+            350,
+            180
+        ]
+    },
+    "AloofMissileSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "九死一生",
+        "position_homepage": 20,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 8200,
+        "fake_playing_count_low_base": 3600,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            50,
+            90,
+            120
+        ],
+        "single_score_challenge_range": [
+            10,
+            30
+        ]
+    },
+    "StopBallSingle": {
+        "update_timestamp": 1549011676,
+        "release_date": "2018-04-16",
+        "name": "阻止那个球",
+        "position_homepage": 42,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            30,
+            40
+        ],
+        "single_score_challenge_range": [
+            10,
+            30
+        ]
+    },
+    "GodDodgeSingle": {
+        "update_timestamp": 1549011675,
+        "name": "魔！神躲闪",
+        "position_homepage": 39,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            20,
+            30,
+            40
+        ],
+        "single_score_challenge_range": [
+            5,
+            30
+        ]
+    },
+    "GoldMinerSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "黄金矿工",
+        "position_homepage": 35,
+        "type": "single",
+        "screen_orientation": "landscape",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "秒",
+        "single_score_type": "float",
+        "single_score_order": "ASC",
+        "single_score_level_line": [
+            110,
+            100,
+            90
+        ],
+        "single_score_challenge_range": [
+            180,
+            100
+        ]
+    },
+    "TenSingle": {
+        "update_timestamp": 1557139977,
+        "release_date": "2019-05-27",
+        "name": "凑十点",
+        "position_homepage": 33,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            50,
+            100,
+            300
+        ]
+    },
+    "DaDiShuSingle": {
+    	"update_timestamp": 1557139979,
+        "name": "疯狂打地鼠",
+        "position_homepage": 29,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 6800,
+        "fake_playing_count_low_base": 2500,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            500,
+            800,
+            1500
+        ],
+        "single_score_challenge_range": [
+            500,
+            1000
+        ]
+    },
+    "TouchOneHundredSingle": {
+    	"update_timestamp": 1557139979,
+        "release_date": "2019-01-31",
+        "name": "不服点100下",
+        "position_homepage": 47,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            3,
+            6,
+            10
+        ]
+    },
+    "TroubleMakerSingle": {
+        "update_timestamp": 1545920487,
+        "release_date": "2018-07-12",
+        "name": "抓到捣蛋鬼",
+        "position_homepage": 30,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            5,
+            11,
+            31
+        ]
+    },
+    "MemoryCircusSingle": {
+        "update_timestamp": 1545920487,
+        "release_date": "2018-04-18",
+        "name": "记忆马戏团",
+        "position_homepage": 48,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": true,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            20,
+            30
+        ],
+        "single_score_challenge_range": [
+            10,
+            30
+        ]
+    },
+    "AirBoxerSingle": {
+        "update_timestamp": 1545920487,
+        "release_date": "2018-04-27",
+        "name": "节奏宗师",
+        "position_homepage": 38,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            200,
+            500,
+            1000
+        ],
+        "single_score_challenge_range": [
+            200,
+            1000
+        ]
+    },
+    "KillingZombiesSingle": {
+        "update_timestamp": 1558524579,
+        "release_date": "2019-05-06",
+        "name": "疯狂打僵尸",
+        "position_homepage": 46,
+        "type": "single",
+        "screen_orientation": "landscape",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "关",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1558524576,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            5,
+            10,
+            15
+        ]
+    },
+    "MarblesSingle": {
+        "update_timestamp": 1549011676,
+        "release_date": "2018-05-29",
+        "name": "物理弹球",
+        "position_homepage": 17,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "icon_timestamp": 1549011674,
+        "icon_version_on": true,
+        "single_score_level_line": [
+            2000,
+            10000,
+            20000
+        ]
+    },
+    "WhoamiSingle": {
+        "update_timestamp": 1552633883,
+        "release_date": "2019-05-23",
+        "name": "我是神马",
+        "position_homepage": 51,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            20,
+            30
+        ]
+    },
+    "RegalHeroSingle": {
+        "update_timestamp": 1549011676,
+        "name": "狗狗反击战",
+        "position_homepage": 27,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 4000,
+        "fake_playing_count_low_base": 1200,
+        "single_score_unit": "分",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            30,
+            50
+        ],
+        "single_score_challenge_range": [
+            5,
+            10
+        ]
+    },
+    "DasijiangshiSingle": {
+        "id":"DasijiangshiSingle",
+        "update_timestamp": 1557139983,
+        "release_date": "2020-01-13",
+        "name": "打死僵尸",
+        "position_homepage": 52,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "关",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            50,
+            100,
+            140
+        ]
+    },
+    "ColourWarSingle": {
+        "id":"ColourWarSingle",
+        "update_timestamp": 1557139977,
+        "release_date": "2019-07-23",
+        "name": "色彩大战",
+        "position_homepage": 41,
+        "type": "single",
+        "screen_orientation": "portrait",
+        "play_type": "normal",
+        "support_animated_background": true,
+        "support_jsb": false,
+        "experience_point": 10,
+        "fake_playing_count_high_base": 12000,
+        "fake_playing_count_low_base": 5000,
+        "single_score_unit": "关",
+        "single_score_type": "int",
+        "single_score_order": "DESC",
+        "single_score_level_line": [
+            10,
+            30,
+            70
+        ]
+    }
+}

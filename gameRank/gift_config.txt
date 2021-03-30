@@ -1,0 +1,4722 @@
+{
+    "2020-04-29":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝 香 槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城  堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔 法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包 包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻 城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法 种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-04-30":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-01":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-02":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-03":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-04":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_gamechdjs",
+                "name":"彩虹独角兽",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamechdjs.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-05":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-06":{
+        "position_1":[
+            {
+                "id":"b_yinghuayu",
+                "name":"樱花雨",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-07":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-08":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-09":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-10":{
+        "position_1":[
+            {
+                "id":"b_horse",
+                "name":"旋转木马",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_horse.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-11":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-12":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_fairy_gold",
+                "name":"仙女棒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_fairy_gold.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-13":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-14":{
+        "position_1":[
+            {
+                "id":"b_horse",
+                "name":"旋转木马",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_horse.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-15":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-16":{
+        "position_1":[
+            {
+                "id":"b_yinghuayu",
+                "name":"樱花雨",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-17":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-18":{
+        "position_1":[
+            {
+                "id":"b_horse",
+                "name":"旋转木马",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_horse.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-19":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-20":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-21":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-22":{
+        "position_1":[
+            {
+                "id":"b_yinghuayu",
+                "name":"樱花雨",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-23":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":10,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-24":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":10,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":3,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-25":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-26":{
+        "position_1":[
+            {
+                "id":"b_horse",
+                "name":"旋转木马",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_horse.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-27":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":8,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-28":{
+        "position_1":[
+            {
+                "id":"b_yinghuayu",
+                "name":"樱花雨",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-29":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-30":{
+        "position_1":[
+            {
+                "id":"b_youxiji",
+                "name":"游戏机",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_youxiji.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_zishuiqiang",
+                "name":"滋水枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_zishuiqiang.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiaofengche",
+                "name":"小风车",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiaofengche.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-05-31":{
+        "position_1":[
+            {
+                "id":"b_youxiji",
+                "name":"游戏机",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_youxiji.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_zishuiqiang",
+                "name":"滋水枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_zishuiqiang.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiaofengche",
+                "name":"小风车",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiaofengche.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-01":{
+        "position_1":[
+            {
+                "id":"b_youxiji",
+                "name":"游戏机",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_youxiji.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_zishuiqiang",
+                "name":"滋水枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_zishuiqiang.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiaofengche",
+                "name":"小风车",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiaofengche.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-02":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":8,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-03":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-04":{
+        "position_1":[
+            {
+                "id":"b_yinghuayu",
+                "name":"樱花雨",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-05":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":6,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-06":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":8,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-07":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":8,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-08":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-09":{
+        "position_1":[
+            {
+                "id":"b_yinghuayu",
+                "name":"樱花雨",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-10":{
+        "position_1":[
+            {
+                "id":"b_tianmi",
+                "name":"甜蜜暴击",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-11":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_beers",
+                "name":"啤酒",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_awesome",
+                "name":"棒棒糖",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-12":{
+        "position_1":[
+            {
+                "id":"b_horse",
+                "name":"旋转木马",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_horse.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":4,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_baobao",
+                "name":"包包",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_xiangshui",
+                "name":"香水",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-13":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-14":{
+        "position_1":[
+            {
+                "id":"b_champagne",
+                "name":"庆祝香槟",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":5,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":8,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_2":[
+            {
+                "id":"b_money",
+                "name":"喷钱枪",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":3,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":5,
+                "type":"garden_gift",
+                "days":3
+            }
+        ],
+        "position_3":[
+            {
+                "id":"b_gamettq",
+                "name":"甜甜圈",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount":1,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"b_menghuan",
+                "name":"梦幻城堡",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount":2,
+                "type":"room_gift",
+                "days":3
+            },
+            {
+                "id":"magic_seed",
+                "name":"魔法种子",
+                "icon_url":"https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount":2,
+                "type":"garden_gift",
+                "days":3
+            }
+        ]
+    },
+    "2020-06-15": {
+        "position_1": [
+            {
+                "id": "b_champagne",
+                "name": "庆祝香槟",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_beers",
+                "name": "啤酒",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_awesome",
+                "name": "棒棒糖",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-16": {
+        "position_1": [
+            {
+                "id": "b_yinghuayu",
+                "name": "樱花雨",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_yinghuayu.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_baobao",
+                "name": "包包",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_xiangshui",
+                "name": "香水",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-17": {
+        "position_1": [
+            {
+                "id": "b_champagne",
+                "name": "庆祝香槟",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_money",
+                "name": "喷钱枪",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_gamettq",
+                "name": "甜甜圈",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-18": {
+        "position_1": [
+            {
+                "id": "b_tianmi",
+                "name": "甜蜜暴击",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_tianmi.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_baobao",
+                "name": "包包",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_xiangshui",
+                "name": "香水",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-19": {
+        "position_1": [
+            {
+                "id": "b_champagne",
+                "name": "庆祝香槟",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_beers",
+                "name": "啤酒",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_awesome",
+                "name": "棒棒糖",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-20": {
+        "position_1": [
+            {
+                "id": "b_champagne",
+                "name": "庆祝香槟",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_money",
+                "name": "喷钱枪",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_money.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_gamettq",
+                "name": "甜甜圈",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_gamettq.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-21": {
+        "position_1": [
+            {
+                "id": "b_champagne",
+                "name": "庆祝香槟",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_beers",
+                "name": "啤酒",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_awesome",
+                "name": "棒棒糖",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-22": {
+        "position_1": [
+            {
+                "id": "b_champagne",
+                "name": "庆祝香槟",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_champagne.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_beers",
+                "name": "啤酒",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_beers.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_awesome",
+                "name": "棒棒糖",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_awesome.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-23": {
+        "position_1": [
+            {
+                "id": "b_horse",
+                "name": "旋转木马",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_horse.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_baobao",
+                "name": "包包",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_baobao.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_xiangshui",
+                "name": "香水",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_xiangshui.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-06-24": {
+        "position_1": [
+            {
+                "id": "b_tianzongzi",
+                "name": "甜粽子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_tianzongzi.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_tianzongzi",
+                "name": "甜粽子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_tianzongzi.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_xianzongzi",
+                "name": "咸粽子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_xianzongzi.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+     "2020-08-22": {
+        "position_1": [
+            {
+                "id": "b_zhinv",
+                "name": "织女抱抱",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_zhinv.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_zhinv",
+                "name": "织女抱抱",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_zhinv.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_niulang",
+                "name": "牛郎抱抱",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_niulang.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    },
+    "2020-08-23": {
+        "position_1": [
+            {
+                "id": "b_zhinv",
+                "name": "织女抱抱",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_zhinv.png",
+                "amount": 4,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 5,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 6,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_2": [
+            {
+                "id": "b_zhinv",
+                "name": "织女抱抱",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_zhinv.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 3,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 4,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ],
+        "position_3": [
+            {
+                "id": "b_niulang",
+                "name": "牛郎抱抱",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_niulang.png",
+                "amount": 1,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "b_menghuan",
+                "name": "梦幻城堡",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/gift-icons/b_menghuan.png",
+                "amount": 2,
+                "type": "room_gift",
+                "days": 3
+            },
+            {
+                "id": "magic_seed",
+                "name": "魔法种子",
+                "icon_url": "https://static.app.new.tongzhuoplay.com/promotions/4dc82336-c767-4b68-947d-a452ca92cce4.png",
+                "amount": 2,
+                "type": "garden_gift",
+                "days": 3
+            }
+        ]
+    }
+}

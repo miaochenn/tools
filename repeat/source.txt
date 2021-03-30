@@ -1,0 +1,287 @@
+{
+    "2_good_mood": {
+        "id": "2_good_mood",
+        "name": "好心情",
+        "description": "祝你今天好心情~",
+        "coin_amount": 6
+    },
+    "2_little_heart": {
+        "id": "2_little_heart",
+        "name": "小心心",
+        "description": "给你我的小心心~",
+        "coin_amount": 6
+    },
+    "2_comfort": {
+        "id": "2_comfort",
+        "name": "安慰",
+        "description": "摸摸头，不难过~",
+        "coin_amount": 19
+    },
+    "2_hug": {
+        "id": "2_hug",
+        "name": "抱抱",
+        "description": "抱一抱，摇一摇~",
+        "coin_amount": 29
+    },
+    "2_chiji": {
+        "id": "2_chiji",
+        "name": "一起吃鸡",
+        "description": "带你一起吃鸡～",
+        "coin_amount": 9
+    },
+    "2_ask_qq": {
+        "id": "2_ask_qq",
+        "name": "求QQ",
+        "description": "加个QQ吧~",
+        "coin_amount": 19
+    },
+    "2_ask_picture": {
+        "id": "2_ask_picture",
+        "name": "求照片",
+        "description": "求照片~",
+        "coin_amount": 29
+    },
+    "2_autumn_naicha": {
+        "id": "2_autumn_naicha",
+        "name": "第一杯奶茶",
+        "description": "送出 第一杯奶茶",
+        "coin_amount": 52
+    },
+    "2_ask_fight": {
+        "id": "2_ask_fight",
+        "name": "不服求战",
+        "description": "话不多说，不服solo",
+        "coin_amount": 6
+    },
+    "2_next_chat": {
+        "id": "2_next_chat",
+        "name": "下次聊",
+        "description": "下次再约~",
+        "coin_amount": 6
+    },
+    "2_alyq": {
+        "id": "2_alyq",
+        "name": "爱落月球",
+        "coin_amount": 999,
+        "description": "送出 爱落月球",
+        "is_special": true,
+        "activity_period": false
+    },
+    "2_yuegong": {
+        "id": "2_yuegong",
+        "name": "月宫故事",
+        "coin_amount": 1999,
+        "description": "送出 月宫故事",
+        "is_special": true,
+        "activity_period": false
+    },
+    "2_moon": {
+        "id": "2_moon",
+        "name": "月亮",
+        "description": "月亮代表我的心~",
+        "coin_amount": 19
+    },
+    "2_beers": {
+        "id": "2_beers",
+        "name": "啤酒",
+        "description": "都在酒里了！",
+        "coin_amount": 29,
+        "is_special": false
+    },
+    "2_champagne": {
+        "id": "2_champagne",
+        "name": "庆祝香槟",
+        "description": "满满幸福的滋味～",
+        "coin_amount": 188,
+        "is_special": true
+    },
+    "2_birthday_cake": {
+        "id": "2_birthday_cake",
+        "name": "生日蛋糕",
+        "coin_amount": 1520,
+        "description": "生日快乐！天天开心！",
+        "color": "#ff3685",
+        "is_special": true
+    },
+    "2_20": {
+        "id": "2_20",
+        "name": "20",
+        "description": "把爱给你～",
+        "coin_amount": 20
+    },
+    "2_2020": {
+        "id": "2_2020",
+        "name": "2020",
+        "description": "2020，爱你爱你～",
+        "coin_amount": 2020,
+        "activity_period": false,
+        "is_special": true
+    },
+    "2_tangguowu": {
+        "id": "2_tangguowu",
+        "name": "糖果屋",
+        "description": "送出 糖果屋！",
+        "coin_amount": 999,
+        "is_special": true
+    },
+    "2_sdfl": {
+        "id": "2_sdfl",
+        "name": "鼠你最红",
+        "coin_amount": 2980,
+        "description": "送出 鼠你最红",
+        "is_special": true
+    },
+    "2_pink_diamond": {
+        "id": "2_pink_diamond",
+        "name": "粉色钻石",
+        "description": "钻石代表我的爱～",
+        "coin_amount": 99
+    },
+    "2_bingshuang": {
+        "id": "2_bingshuang",
+        "name": "冰爽暴击",
+        "description": "好吃的冰激凌都给你～",
+        "coin_amount": 199,
+        "is_special": true
+    },
+    "2_queqiao": {
+        "id": "2_queqiao",
+        "name": "鹊桥",
+        "description": "送出 鹊桥",
+        "coin_amount": 1520,
+        "is_special": true,
+        "activity_period": false
+    },
+    "2_longzhou": {
+        "id": "2_longzhou",
+        "name": "龙舟",
+        "coin_amount": 5999,
+        "description": "送出龙舟",
+        "is_special": true
+    },
+    "2_iphone11": {
+        "id": "2_iphone11",
+        "name": "iPhone 11 Max",
+        "description": "和我一起做土豪~",
+        "coin_amount": 19
+    },
+    "2_love_you": {
+        "id": "2_love_you",
+        "name": "喜欢你",
+        "description": "就是喜欢你~",
+        "activity_period": false,
+        "coin_amount": 99
+    },
+    "2_yinghuayu": {
+        "id": "2_yinghuayu",
+        "name": "樱花雨",
+        "description": "与你一起漫步樱花雨～",
+        "coin_amount": 199,
+        "is_special": true
+    },
+    "2_prxd": {
+        "id": "2_prxd",
+        "name": "怦然心动",
+        "description": "你在我心里砰砰跳",
+        "coin_amount": 520,
+        "activity_period": false,
+        "is_special": true
+    },
+    "2_doughnut": {
+        "id": "2_doughnut",
+        "name": "甜甜圈",
+        "description": "请你吃甜甜圈~",
+        "coin_amount": 9
+    },
+    "2_tianmi": {
+        "id": "2_tianmi",
+        "name": "甜蜜暴击",
+        "description": "用全部的甜蜜击穿你～",
+        "coin_amount": 199,
+        "is_special": true
+    },
+    "2_blue_rose": {
+        "id": "2_blue_rose",
+        "name": "蓝玫瑰",
+        "description": "送蓝玫瑰给美丽的你",
+        "coin_amount": 999,
+        "activity_period": false,
+        "is_special": true
+    },
+    "2_lmlxy": {
+        "id": "2_lmlxy",
+        "name": "浪漫流星雨",
+        "description": "有你陪的流星雨才好看～",
+        "coin_amount": 999,
+        "is_special": true
+    },
+    "2_yingguangbang": {
+        "id": "2_yingguangbang",
+        "name": "荧光棒",
+        "coin_amount": 2,
+        "description": "为你挥舞荧光棒～"
+    },
+    "2_666": {
+        "id": "2_666",
+        "name": "666",
+        "description": "666~",
+        "coin_amount": 6
+    },
+    "2_gaobaiqiqiu": {
+        "id": "2_gaobaiqiqiu",
+        "name": "告白气球",
+        "description": "让气球带去我的思念",
+        "coin_amount": 299,
+        "is_special": true
+    },
+    "2_mhhd01": {
+        "id": "2_mhhd01",
+        "name": "梦幻蝴蝶",
+        "description": "与你缠缠绵绵翩翩飞",
+        "coin_amount": 999,
+        "is_special": true
+    },
+    "2_danshengouliang": {
+        "id": "2_danshengouliang",
+        "name": "单身狗粮",
+        "coin_amount": 1,
+        "description": "贵族特供"
+    },
+    "2_awesome": {
+        "id": "2_awesome",
+        "name": "棒棒糖",
+        "description": "你真是棒棒的~",
+        "coin_amount": 9
+    },
+    "2_horse": {
+        "id": "2_horse",
+        "name": "旋转木马",
+        "description": "陪你一起坐旋转木马~",
+        "coin_amount": 199
+    },
+    "2_huojian": {
+        "id": "2_huojian",
+        "name": "火箭",
+        "description": "带你私奔游太空～",
+        "coin_amount": 999,
+        "is_special": true
+    },
+    "2_red_envelope": {
+        "id": "2_red_envelope",
+        "name": "红包",
+        "description": "接住我的大红包~",
+        "coin_amount": 69
+    },
+    "2_baobao": {
+        "id": "2_baobao",
+        "name": "包包",
+        "description": "包包送给你～",
+        "coin_amount": 69
+    },
+    "2_world": {
+        "id": "2_world",
+        "name": "环游世界",
+        "description": "带你环游世界~",
+        "coin_amount": 299
+    }
+}
