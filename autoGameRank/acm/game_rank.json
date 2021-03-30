@@ -1,0 +1,37 @@
+{
+    "2021-03-29": {
+        "date": "2021-03-29",
+        "game_id": "SquareEliminationSingle",
+        "game_type": "single"
+    },
+    "2021-03-30": {
+        "date": "2021-03-30",
+        "game_id": "Gobang",
+        "game_type": "fight"
+    },
+    "2021-03-31": {
+        "date": "2021-03-31",
+        "game_id": "Ace",
+        "game_type": "fight"
+    },
+    "2021-04-01": {
+        "date": "2021-04-01",
+        "game_id": "NewTetrisSingle",
+        "game_type": "single"
+    },
+    "2021-04-02": {
+        "date": "2021-04-02",
+        "game_id": "PlaneWarSingle",
+        "game_type": "single"
+    },
+    "2021-04-03": {
+        "date": "2021-04-03",
+        "game_id": "Linkup",
+        "game_type": "fight"
+    },
+    "2021-04-04": {
+        "date": "2021-04-04",
+        "game_id": "KnifeAttack",
+        "game_type": "fight"
+    }
+}

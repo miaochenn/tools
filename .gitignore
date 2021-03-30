@@ -1,0 +1,13 @@
+[Tt]humbs.db
+*.DS_Store
+*~
+.idea
+vendor
+codecept.phar
+tests/_output/*
+app/config/development.php
+app/config/production.php
+builds
+composer.lock
+.php_cs.cache
+autoGameRank/.idea/workspace.xml
