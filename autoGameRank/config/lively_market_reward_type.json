@@ -1,0 +1,52 @@
+[
+  {
+    "name": "装扮",
+    "type": "dressing",
+    "icon": "https://static.app.new.tongzhuoplay.com/dressing/shop/.png"
+  },
+  {
+    "name": "礼物",
+    "type": "room_gift",
+    "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+  },
+  {
+    "name": "挂件",
+    "type": "pendant",
+    "icon": "https://static.app.new.tongzhuoplay.com/user_decorations/.png"
+  },
+  {
+    "name": "玩券",
+    "type": "bind_coin",
+    "id": "bind_coin",
+    "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+  },
+  {
+    "name": "玩乐卡",
+    "type": "lively_market_coupon",
+    "id": "lively_market_coupon",
+    "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+  },
+  {
+    "name": "桌球球杆",
+    "type": "billiards",
+    "icon": "https://static.app.new.tongzhuoplay.com/promotions/.png"
+  },
+  {
+    "name": "后花园种子",
+    "type": "gold_seed",
+    "id": "gold_seed",
+    "icon": "https://static.app.new.tongzhuoplay.com/promotions/gold_seed.png"
+  },
+  {
+    "name": "超级说说边框",
+    "type": "super_feed_frame",
+    "id": "super_feed_frame",
+    "icon": "https://static.app.new.tongzhuoplay.com/promotions/super_feed_frame.png"
+  },
+  {
+    "name": "一战到底复活卡",
+    "type": "resurgence_card",
+    "id": "resurgence_card",
+    "icon": "https://static.app.new.tongzhuoplay.com/promotions/resurgence_card.png"
+  }
+]

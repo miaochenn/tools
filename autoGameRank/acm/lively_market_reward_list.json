@@ -1,0 +1,882 @@
+[
+    {
+        "experience": 1000,
+        "level": 1,
+        "daily": {
+            "reward_id": "1_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "1_2",
+            "type": "pendant",
+            "id": "",
+            "name": "挂件-海豚恋人",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/user_decorations/.png"
+        },
+        "upgrade2": {
+            "reward_id": "1_3",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 2,
+        "daily": {
+            "reward_id": "2_1",
+            "type": "gold_seed",
+            "id": "gold_seed",
+            "name": "后花园金种子",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/gold_seed.png"
+        },
+        "upgrade": {
+            "reward_id": "2_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 3,
+        "daily": {
+            "reward_id": "3_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-泰迪熊",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "3_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 4,
+        "daily": {
+            "reward_id": "4_1",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade": {
+            "reward_id": "4_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 5,
+        "daily": {
+            "reward_id": "5_1",
+            "type": "billiards",
+            "id": "",
+            "name": "球杆-仙女棒",
+            "amount": 0,
+            "days": 3,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/.png"
+        },
+        "upgrade": {
+            "reward_id": "5_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-欢乐彩蛋",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": {
+            "reward_id": "5_3",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-神之王冠",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 6,
+        "daily": {
+            "reward_id": "6_1",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade": {
+            "reward_id": "6_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 7,
+        "daily": {
+            "reward_id": "7_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "7_2",
+            "type": "dressing",
+            "id": "",
+            "name": "装扮-黄金权杖",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/dressing/shop/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 8,
+        "daily": {
+            "reward_id": "8_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-挺你哦",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "8_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 9,
+        "daily": {
+            "reward_id": "9_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-幸运草",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "9_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 10,
+        "daily": {
+            "reward_id": "10_1",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 1000,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade": {
+            "reward_id": "10_2",
+            "type": "super_feed_frame",
+            "id": "super_feed_frame",
+            "name": "超级说说边框",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/super_feed_frame.png"
+        },
+        "upgrade2": {
+            "reward_id": "10_3",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 5,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 11,
+        "daily": {
+            "reward_id": "11_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "11_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 12,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "12_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-欢乐彩蛋",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 13,
+        "daily": {
+            "reward_id": "13_1",
+            "type": "dressing",
+            "id": "",
+            "name": "装扮-英伦伞",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/dressing/shop/.png"
+        },
+        "upgrade": {
+            "reward_id": "13_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 14,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "14_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 15,
+        "daily": {
+            "reward_id": "15_1",
+            "type": "resurgence_card",
+            "id": "resurgence_card",
+            "name": "一战到底复活卡",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/resurgence_card.png"
+        },
+        "upgrade": {
+            "reward_id": "15_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 5,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": {
+            "reward_id": "15_3",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-梦幻城堡",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 16,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "16_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 17,
+        "daily": {
+            "reward_id": "17_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "17_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-欢乐彩蛋",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 18,
+        "daily": {
+            "reward_id": "18_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-挺你哦",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "18_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 19,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "19_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 20,
+        "daily": {
+            "reward_id": "20_1",
+            "type": "pendant",
+            "id": "",
+            "name": "挂件-干饭人",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/user_decorations/.png"
+        },
+        "upgrade": {
+            "reward_id": "20_2",
+            "type": "dressing",
+            "id": "",
+            "name": "装扮-眼镜",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/dressing/shop/.png"
+        },
+        "upgrade2": {
+            "reward_id": "20_3",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 20,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 21,
+        "daily": {
+            "reward_id": "21_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "21_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 22,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "22_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 23,
+        "daily": {
+            "reward_id": "23_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-太阳花",
+            "amount": 20,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "23_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 24,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "24_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 25,
+        "daily": {
+            "reward_id": "25_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-比心",
+            "amount": 5,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "25_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": {
+            "reward_id": "25_3",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 26,
+        "daily": {
+            "reward_id": "26_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "26_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 27,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "27_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 28,
+        "daily": {
+            "reward_id": "28_1",
+            "type": "gold_seed",
+            "id": "gold_seed",
+            "name": "后花园金种子",
+            "amount": 5,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/gold_seed.png"
+        },
+        "upgrade": {
+            "reward_id": "28_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 29,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "29_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 30,
+        "daily": {
+            "reward_id": "30_1",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 1000,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade": {
+            "reward_id": "30_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": {
+            "reward_id": "30_3",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 20,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 31,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "31_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 32,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "32_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 33,
+        "daily": {
+            "reward_id": "33_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "33_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 34,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "34_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 35,
+        "daily": {
+            "reward_id": "35_1",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-荧光棒",
+            "amount": 5,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade": {
+            "reward_id": "35_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-香奈礼盒",
+            "amount": 5,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": {
+            "reward_id": "35_3",
+            "type": "room_gift",
+            "id": "",
+            "name": "彩虹独角兽",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        }
+    },
+    {
+        "experience": 1000,
+        "level": 36,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "36_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 37,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "37_2",
+            "type": "bind_coin",
+            "id": "bind_coin",
+            "name": "玩券",
+            "amount": 500,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/bind_coin.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 38,
+        "daily": {
+            "reward_id": "38_1",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade": {
+            "reward_id": "38_2",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 10,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 39,
+        "daily": [],
+        "upgrade": {
+            "reward_id": "39_2",
+            "type": "room_gift",
+            "id": "",
+            "name": "礼物-招财猫",
+            "amount": 1,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/gift-icons/.png"
+        },
+        "upgrade2": []
+    },
+    {
+        "experience": 1000,
+        "level": 40,
+        "daily": {
+            "reward_id": "40_1",
+            "type": "dressing",
+            "id": "",
+            "name": "装扮-骷髅权杖",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/dressing/shop/.png"
+        },
+        "upgrade": {
+            "reward_id": "40_2",
+            "type": "dressing",
+            "id": "",
+            "name": "装扮-宠物熊猫",
+            "amount": 0,
+            "days": 2,
+            "icon": "https://static.app.new.tongzhuoplay.com/dressing/shop/.png"
+        },
+        "upgrade2": {
+            "reward_id": "40_3",
+            "type": "lively_market_coupon",
+            "id": "lively_market_coupon",
+            "name": "玩乐卡",
+            "amount": 20,
+            "days": 0,
+            "icon": "https://static.app.new.tongzhuoplay.com/promotions/lively_market_coupon.png"
+        }
+    }
+]
