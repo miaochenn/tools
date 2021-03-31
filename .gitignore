@@ -5,3 +5,4 @@
 .php_cs.cache
 autoGameRank/.idea/workspace.xml
 autoGameRank/.idea/php.xml
+autoGameRank/.idea/*
